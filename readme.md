@@ -9,6 +9,8 @@
   WHATSAPP BOT WITH AI SUMMARY
 </h1>
 
+check out the medium article [here](https://medium.com/@fanbyprinciple/creating-a-whatsapp-bot-that-summarizes-links-9b0230ffd80f) 
+
 ----------------
 Lets start with getting selenium up and running.
 
