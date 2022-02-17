@@ -1,11 +1,5 @@
-<style>
-.heading-1{
-  font-size: 550%!important;
-  line-height: 120%!important;
-}
-</style>
 
-<h1 class="heading-1">
+<h1 class="heading-1" style="font-size:500%!important;">
   WHATSAPP BOT WITH AI SUMMARY
 </h1>
 
